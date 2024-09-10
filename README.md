@@ -2,7 +2,7 @@
 <p align="center"><samp> hi i'm claire and it's me and my puter against the world. </samp></p>
 
 <p align="center">
-  <img width="250" src="images/moomin.png">
+  <img width="250" src="moomin.png">
 </p>
 
 
